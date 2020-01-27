@@ -36,5 +36,5 @@ services:
       - yarn cypress install
 
     overrides:
-      image: 'sitecrafting/lando-cypress-wordpress:0.2.0'
+      image: 'sitecrafting/lando-node-cypress:8.11'
 ```
